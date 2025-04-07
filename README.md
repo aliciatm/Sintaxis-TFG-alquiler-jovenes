@@ -10,7 +10,11 @@ Se explotan los datos de la Encuesta Jóvenes y Vivienda, elaborada por el Centr
 
 **- AliciaTM_TFG22-23_ preview**. Pequeña preview del trabajo final, incluyendo el índice, introducción y objetivos.
 
+
 —
+
 **Grado en Sociología UGR** - Curso 2022/2023
+
 **Autoría:** Alicia Talavera Marcos
+
 **Tutorización**: José Manuel Torrado Rodríguez y Ricardo Duque Calvache
